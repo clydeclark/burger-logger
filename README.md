@@ -29,6 +29,8 @@ All the recommended files and directories from the steps above should look like 
 │   └── assets
 │       ├── css
 │       │   └── burger_style.css
+│       ├── js
+│       │   └── burgers.js
 │       └── img
 │           └── burger.png
 │   
@@ -37,6 +39,8 @@ All the recommended files and directories from the steps above should look like 
 │
 └── views
     ├── index.handlebars
+    ├── partials
+    │   └── burgers-block.handlebars
     └── layouts
         └── main.handlebars
 ```

@@ -2,3 +2,27 @@ body {
     background-color: brown;
     color: pink;
 }
+
+#burger-head {
+    width: 100%;
+}
+
+#not-devoured {
+    float: left;
+    width: 50%;
+}
+
+#devoured {
+    float: left;
+    width: 50%;
+}
+
+#add-burger {
+    float: left;
+    width: 50%;
+}
+
+#burger-pic {
+    float: left;
+    width: 50%;
+}

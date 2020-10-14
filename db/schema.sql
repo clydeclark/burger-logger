@@ -1,8 +1,8 @@
 -- drop and recreate DB
-DROP DATABASE IF EXISTS burgers_db;
-CREATE DATABASE burgers_db;
+DROP DATABASE IF EXISTS kepe2rr88fe0can3;
+CREATE DATABASE kepe2rr88fe0can3;
 
-USE burgers_db;
+USE kepe2rr88fe0can3;
 
 -- create table
 CREATE TABLE burgers (

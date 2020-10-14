@@ -32,7 +32,7 @@ $(function() {
       };
   
       // Send the POST request.
-      $.ajax("http://https://damp-bayou-90231.herokuapp.com/api/burgers", {
+      $.ajax("https://damp-bayou-90231.herokuapp.com/api/burgers", {
         type: "POST",
         data: newBurger
       }).then(
